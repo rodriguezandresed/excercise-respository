@@ -1,7 +1,11 @@
 body{
-    background: #BDBDBD;
+
+    background: white;
+
+ 
 }
 
 .card-text:last-child {
     font-size: 0.9rem!important;
+
 }
